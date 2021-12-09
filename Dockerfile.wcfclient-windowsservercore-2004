@@ -1,0 +1,2 @@
+# Tags: wcfclient-windowsservercore-2004
+FROM dotnet/framework/samples:wcfclient-windowsservercore-2004

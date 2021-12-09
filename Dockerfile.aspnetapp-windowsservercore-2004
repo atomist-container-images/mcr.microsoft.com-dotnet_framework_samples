@@ -1,0 +1,2 @@
+# Tags: aspnetapp-windowsservercore-2004
+FROM dotnet/framework/samples:aspnetapp-windowsservercore-2004

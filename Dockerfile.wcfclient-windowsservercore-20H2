@@ -1,0 +1,2 @@
+# Tags: wcfclient-windowsservercore-20H2
+FROM dotnet/framework/samples:wcfclient-windowsservercore-20H2
