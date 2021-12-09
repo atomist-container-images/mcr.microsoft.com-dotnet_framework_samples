@@ -1,2 +1,2 @@
 # Tags: dotnetapp-windowsservercore-2004
-FROM dotnet/framework/samples:dotnetapp-windowsservercore-2004
+FROM mcr.microsoft.com/dotnet/framework/samples:dotnetapp-windowsservercore-2004

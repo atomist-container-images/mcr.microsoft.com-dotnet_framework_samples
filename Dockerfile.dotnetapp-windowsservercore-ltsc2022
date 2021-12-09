@@ -1,2 +1,2 @@
 # Tags: dotnetapp-windowsservercore-ltsc2022
-FROM dotnet/framework/samples:dotnetapp-windowsservercore-ltsc2022
+FROM mcr.microsoft.com/dotnet/framework/samples:dotnetapp-windowsservercore-ltsc2022

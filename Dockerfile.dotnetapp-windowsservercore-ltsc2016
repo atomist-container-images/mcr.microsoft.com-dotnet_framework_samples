@@ -1,2 +1,2 @@
 # Tags: dotnetapp-windowsservercore-ltsc2016
-FROM dotnet/framework/samples:dotnetapp-windowsservercore-ltsc2016
+FROM mcr.microsoft.com/dotnet/framework/samples:dotnetapp-windowsservercore-ltsc2016

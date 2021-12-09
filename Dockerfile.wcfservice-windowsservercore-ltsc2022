@@ -1,2 +1,2 @@
 # Tags: wcfservice-windowsservercore-ltsc2022
-FROM dotnet/framework/samples:wcfservice-windowsservercore-ltsc2022
+FROM mcr.microsoft.com/dotnet/framework/samples:wcfservice-windowsservercore-ltsc2022
