@@ -1,2 +1,0 @@
-# Tags: wcfservice-windowsservercore-ltsc2016
-FROM mcr.microsoft.com/dotnet/framework/samples:wcfservice-windowsservercore-ltsc2016

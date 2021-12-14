@@ -1,2 +1,0 @@
-# Tags: wcfservice-windowsservercore-2004
-FROM mcr.microsoft.com/dotnet/framework/samples:wcfservice-windowsservercore-2004

@@ -1,2 +1,0 @@
-# Tags: aspnetapp-windowsservercore-20H2
-FROM mcr.microsoft.com/dotnet/framework/samples:aspnetapp-windowsservercore-20H2
